@@ -1,0 +1,1 @@
+Bu klasöre önceden eğitilmşi yapay zeka modellerinin koyun
